@@ -13,17 +13,15 @@
 
 ---
 
-## 📸 Identidad y propuesta
+## 📸 Galería
 
-| Logo y marca | Ambiente |
+| Vista inicial | Catálogo completo |
 |---|---|
-| ![Logo](docs/00-logo.png) | ![Ambiente](docs/02-ambiente.jpg) |
+| ![Hero](docs/01-hero.png) | ![Catálogo](docs/02-catalogo.png) |
 
-| Especialidad de la casa | Favorito del menú |
+| Los más pedidos | Destacados de temporada |
 |---|---|
-| ![Capuccino](docs/03-capuccino.jpg) | ![Waffle](docs/04-waffle.jpg) |
-
-> La demo en vivo muestra la experiencia completa: hero parisino, catálogo con precios en USD, carrito y salida a WhatsApp.
+| ![Productos](docs/03-productos.png) | ![Destacados](docs/04-destacados.png) |
 
 ---
 
